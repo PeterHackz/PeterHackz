@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧑 I'm a 16yo programmer
+- 🧑 I'm a 17yo programmer
 - 📚 I know python, java, c++, c, javascript, html, and css
 - 🔴 I love working on the server-side of projects (yet I mostly work on both server-side and client-side) 
 - 🤙 you can call me S.B or Haccer Cat
