@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hello! 👋
 
-- 🧑 I'm an 18yo programmer
-- 📚 I am proficient with java, js and golang and works with some other languages like python and rust
-- 🔴 I love working on backend and hate web development 😆
-- 🤙 you can call me S.B
-- 📫 if you wanna tell me something, contact me on discord: `@s.b`, or email me: `sb.haccercat@gmail.com`
-- 📎 [my discord server](https://discord.gg/b2ejYcJjqA)
+- 👨‍💻 I'm an 18-year-old programmer with proficiency in Java, JavaScript, and Golang, and hands-on experience with languages like Python and Rust.
+- 🔴 Passionate about backend development, not so much a fan of web development 😆
+- 🤙 You can call me S.B.
+- 📫 Feel free to reach out on Discord: `@s.b`, or drop me an email at `sb.haccercat@gmail.com`.
+- 📎 [My Discord server](https://discord.gg/b2ejYcJjqA)
